@@ -2,24 +2,24 @@
 
 A lightweight database management application tailored for organizing and tracking data from the mobile game **Top War**.
 
-## ?? Features
+## :bulb: Features
 
-- Manage and categorize units, heroes, and upgrades.
+- Manage and categorize items and in future (maybe?) heroes, and upgrades.
 - Easily view stats and relationships between game entities.
 - Clean and modular codebase with extendable data models.
 
-## ?? Technologies Used
+## :rocket: Technologies Used
 
 - C# (.NET)
 - Windows Forms / WPF (depending on your UI)
 - Visual Studio
 - LINQ for data manipulation
 
-## ??? Setup Instructions
+## :hammer: Setup Instructions
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Sorky96/TopWarDatabase.git```
+   git clone https://github.com/Sorky96/TopWarDatabase.git
 2. Open TopWarDatabase.sln in Visual Studio.
 
 3. Restore NuGet packages (if required).
